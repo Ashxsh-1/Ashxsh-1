@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Singh</h1>
+<h1 align="center">Hi 👋, I'm Ujjwal Singh</h1>
 <h3 align="center">A passionate fullstack developer from India (BTECH '26)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashxsh-1&label=Profile%20views&color=0e75b6&style=flat" alt="ashxsh-1" /> </p>
